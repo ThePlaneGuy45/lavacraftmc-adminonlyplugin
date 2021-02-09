@@ -1,0 +1,22 @@
+name: AdminOnlyChat
+author: Dawnkiller2008
+api: [3.0.0-APLHA11]
+version: 1.0
+Main: AdminOnlyChat
+
+# Commands
+command:
+	ao:
+		description: Admin Only Chat
+		usage: /ao
+	adminonly:
+		Description: Admin Only Chat
+		usage: /adminonly
+
+# Permissions 
+permissions:
+	adminChat.useAdminChat:
+		default: false
+	adminChat.readAdminChat:
+		default: false
+	
