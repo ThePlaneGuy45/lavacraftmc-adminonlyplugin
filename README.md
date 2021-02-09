@@ -1,0 +1,2 @@
+# lavacraftmc-adminonlyplugin
+AdminOnlyChat
