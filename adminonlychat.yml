@@ -2,7 +2,7 @@ name: AdminOnlyChat
 author: Dawnkiller2008
 api: [3.0.0-APLHA11]
 version: 1.0
-Main: AdminOnlyChat
+Main: lavacraftmc/adminonlyplugin/adminonlychat
 
 # Commands
 command:
