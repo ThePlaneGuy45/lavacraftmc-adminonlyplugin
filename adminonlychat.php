@@ -1,4 +1,4 @@
-<?php>
+<?php
 use pocketmine\plugin\PluginBase;
 
 use pocketmine\event\player\PlayerJoinEvent;
@@ -39,4 +39,4 @@ class Inactive-to-ReactiveExample extends PluginBase implements Listener{
       }
      }
 }
-</?php>
+>
